@@ -5,7 +5,9 @@
   "main": "index.js",
   "scripts": {
     "start": "node ./src/index.js",
-    "clean": "rm -rf ./DATA && rm -f ./scraping.db"
+    "clean": "rm -rf ./DATA && rm -f ./scraping.db",
+    "test": "vitest run",
+    "test:watch": "vitest"
   },
   "repository": {
     "type": "git",
@@ -26,5 +28,8 @@
     "sqlite3": "^5.1.7",
     "uuid": "^13.0.0"
   },
-  "type": "module"
+  "type": "module",
+  "devDependencies": {
+    "vitest": "^4.1.0"
+  }
 }

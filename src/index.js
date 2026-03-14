@@ -123,6 +123,13 @@ dataPatcher
     replace: "ddoS 22. August – 24. August 2025",
   });
 
+const dataPatcherWriter = new DataPatcher(dataPatcher);
+dataPatcherWriter.addRule({
+  includes: [/.*/],
+  search: "https://media.ddos.odenwilusenz.ch/current-wiki-logo.png",
+  replace: "current-wiki-logo.png",
+});
+
 // Create config function to avoid const issues
 function createConfig() {
   const processed = {
@@ -152,7 +159,10 @@ function createConfig() {
           await validatePattern({
             value: context.parsedUrl.hostname,
             pattern: {
-              allowed: [new RegExp(`^${domain.replaceAll(".", "\\.")}$`, "i")],
+              allowed: [
+                new RegExp(`^${domain.replaceAll(".", "\\.")}$`, "i"),
+                "media.ddos.odenwilusenz.ch",
+              ],
             },
             logger,
           });
@@ -189,7 +199,7 @@ function createConfig() {
 
       write: [
         writePrepareContent(),
-        writePatchText({ dataPatcher }),
+        writePatchText({ dataPatcher: dataPatcherWriter }),
         writeRewriteHtml({ htmlProcessors, rewriteUrl }),
         writeRewriteCss({ rewriteUrl }),
         writeFormatWithPrettier(),
