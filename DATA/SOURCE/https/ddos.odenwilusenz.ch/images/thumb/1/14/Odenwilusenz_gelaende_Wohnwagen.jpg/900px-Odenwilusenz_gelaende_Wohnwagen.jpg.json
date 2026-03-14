@@ -1,0 +1,24 @@
+{
+  "metadata": {
+    "headers": {
+      "date": "Sat, 14 Mar 2026 15:00:15 GMT",
+      "content-type": "image/jpeg",
+      "content-length": "75543",
+      "connection": "keep-alive",
+      "server": "cloudflare",
+      "last-modified": "Mon, 06 Mar 2023 05:46:32 GMT",
+      "etag": "\"12717-5f634d13ea367\"",
+      "accept-ranges": "bytes",
+      "cache-control": "max-age=14400",
+      "cf-cache-status": "MISS",
+      "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+      "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=jcuJK4bA7PlmSQW03qBpxU2CPaYwOt2XlTIo27QtbKXTQkyfIPPsIp5cx%2FbY7%2BAJmC1YBwkU6zLEec08NPFWMWlk5oPkLLkbrTDPCEEUZlf%2Fx7RL\"}]}",
+      "cf-ray": "9dc4259dbdc6343e-ZRH",
+      "alt-svc": "h3=\":443\"; ma=86400"
+    },
+    "status": 200,
+    "uri": "https://ddos.odenwilusenz.ch/images/thumb/1/14/Odenwilusenz_gelaende_Wohnwagen.jpg/900px-Odenwilusenz_gelaende_Wohnwagen.jpg",
+    "timestamp": "2026-03-14T15:00:15.628Z"
+  },
+  "hasData": true
+}

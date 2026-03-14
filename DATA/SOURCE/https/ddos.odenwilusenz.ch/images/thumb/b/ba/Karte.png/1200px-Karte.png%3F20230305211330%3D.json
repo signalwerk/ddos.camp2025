@@ -1,0 +1,24 @@
+{
+  "metadata": {
+    "headers": {
+      "date": "Sat, 14 Mar 2026 15:00:16 GMT",
+      "content-type": "image/png",
+      "content-length": "1424385",
+      "connection": "keep-alive",
+      "server": "cloudflare",
+      "last-modified": "Mon, 06 Mar 2023 05:25:49 GMT",
+      "etag": "\"15bc01-5f63487291fc1\"",
+      "accept-ranges": "bytes",
+      "cache-control": "max-age=14400",
+      "cf-cache-status": "MISS",
+      "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+      "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=SzlGyPOIxrpJksDtBxS6R3ZHWr3b3ygq2My6v1vyYsu0oo%2FCAUK5K2sJBZi2jtmqWi9Qj03OhIW%2FjrscR4TBJqwf7guXUMVtGqADEOmc3ujbm0k4\"}]}",
+      "cf-ray": "9dc425a53a69343e-ZRH",
+      "alt-svc": "h3=\":443\"; ma=86400"
+    },
+    "status": 200,
+    "uri": "https://ddos.odenwilusenz.ch/images/thumb/b/ba/Karte.png/1200px-Karte.png?20230305211330=",
+    "timestamp": "2026-03-14T15:00:16.885Z"
+  },
+  "hasData": true
+}

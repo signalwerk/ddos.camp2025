@@ -1,0 +1,28 @@
+{
+  "metadata": {
+    "headers": {
+      "date": "Sat, 14 Mar 2026 15:00:14 GMT",
+      "content-type": "text/html; charset=UTF-8",
+      "transfer-encoding": "chunked",
+      "connection": "keep-alive",
+      "server": "cloudflare",
+      "x-content-type-options": "nosniff",
+      "content-language": "de",
+      "vary": "Accept-Encoding,Cookie",
+      "expires": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "cache-control": "private, must-revalidate, max-age=0",
+      "x-request-id": "abV3_Us0DL9tIe4MCu-YzwAAAfM",
+      "set-cookie": "cpPosIndex=5%401773500413%231a7b27132f7512840fc10f768c36edd8; expires=Sat, 14 Mar 2026 15:00:23 GMT; Max-Age=10; path=/; secure; HttpOnly",
+      "last-modified": "Sat, 23 Aug 2025 20:28:38 GMT",
+      "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=xe9BD9NT%2BCQeqokM9aot%2FrPs%2FtF5UxSWEfPI%2BkwuqBl1LjyulbUMp0v9Q5WFrQhvQyOzJmwOT%2Fm%2FznPAXF%2FlTeLYUT9l%2FchqIAnwjvfGKFIBHE6f\"}]}",
+      "cf-cache-status": "DYNAMIC",
+      "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+      "cf-ray": "9dc42592bb28343e-ZRH",
+      "alt-svc": "h3=\":443\"; ma=86400"
+    },
+    "status": 200,
+    "uri": "https://ddos.odenwilusenz.ch/Lightning_Talks_2025",
+    "timestamp": "2026-03-14T15:00:14.060Z"
+  },
+  "hasData": true
+}

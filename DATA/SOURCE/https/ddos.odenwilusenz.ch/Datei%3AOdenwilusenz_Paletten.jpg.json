@@ -1,0 +1,28 @@
+{
+  "metadata": {
+    "headers": {
+      "date": "Sat, 14 Mar 2026 15:00:14 GMT",
+      "content-type": "text/html; charset=UTF-8",
+      "transfer-encoding": "chunked",
+      "connection": "keep-alive",
+      "server": "cloudflare",
+      "x-content-type-options": "nosniff",
+      "content-language": "de",
+      "vary": "Accept-Encoding,Cookie",
+      "expires": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "cache-control": "private, must-revalidate, max-age=0",
+      "x-request-id": "abV3_qN3CJwcPiT6r2bh7wAAAl0",
+      "set-cookie": "cpPosIndex=1%401773500414%2341f4e6b733521e8ae01a7c96b0f09a3c; expires=Sat, 14 Mar 2026 15:00:24 GMT; Max-Age=10; path=/; secure; HttpOnly",
+      "last-modified": "Fri, 22 Aug 2025 20:13:43 GMT",
+      "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=72kQckMa%2FKPKf2yQrqm8eaGcKHfymifXhrpASVZxK4NhMgNDRPc3MPqfAy8l69G6u2cgdEBlPDrfhiJGr4sjkOKS1B3VjDqSvNVYmUEjlItHJQ%3D%3D\"}]}",
+      "cf-cache-status": "BYPASS",
+      "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+      "cf-ray": "9dc42597ce4ebb0c-ZRH",
+      "alt-svc": "h3=\":443\"; ma=86400"
+    },
+    "status": 200,
+    "uri": "https://ddos.odenwilusenz.ch/Datei:Odenwilusenz_Paletten.jpg",
+    "timestamp": "2026-03-14T15:00:14.974Z"
+  },
+  "hasData": true
+}

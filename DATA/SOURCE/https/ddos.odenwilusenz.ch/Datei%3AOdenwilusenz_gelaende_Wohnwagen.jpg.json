@@ -1,0 +1,28 @@
+{
+  "metadata": {
+    "headers": {
+      "date": "Sat, 14 Mar 2026 15:00:15 GMT",
+      "content-type": "text/html; charset=UTF-8",
+      "transfer-encoding": "chunked",
+      "connection": "keep-alive",
+      "server": "cloudflare",
+      "x-content-type-options": "nosniff",
+      "content-language": "de",
+      "vary": "Accept-Encoding,Cookie",
+      "expires": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "cache-control": "private, must-revalidate, max-age=0",
+      "x-request-id": "abV3_ks0DL9tIe4MCu-Y1AAAAfM",
+      "set-cookie": "cpPosIndex=1%401773500415%237958c07097d92929a6a2022aa653c427; expires=Sat, 14 Mar 2026 15:00:25 GMT; Max-Age=10; path=/; secure; HttpOnly",
+      "last-modified": "Fri, 22 Aug 2025 20:13:43 GMT",
+      "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=sq2b9eBdvbBcRmD36tk7SpjbtxoGDZlu8RI1TsO8eC%2FAappggv7ki2iPzbcgiMwNolpzzpBA5qvY7m%2F4fPmuWZAnGDH4Rulnzezk72C0o%2BXK2Xeg\"}]}",
+      "cf-cache-status": "BYPASS",
+      "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+      "cf-ray": "9dc425992e27343e-ZRH",
+      "alt-svc": "h3=\":443\"; ma=86400"
+    },
+    "status": 200,
+    "uri": "https://ddos.odenwilusenz.ch/Datei:Odenwilusenz_gelaende_Wohnwagen.jpg",
+    "timestamp": "2026-03-14T15:00:15.186Z"
+  },
+  "hasData": true
+}

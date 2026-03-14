@@ -1,0 +1,24 @@
+{
+  "metadata": {
+    "headers": {
+      "date": "Sat, 14 Mar 2026 15:00:17 GMT",
+      "content-type": "image/jpeg",
+      "content-length": "3055",
+      "connection": "keep-alive",
+      "server": "cloudflare",
+      "last-modified": "Sun, 05 Mar 2023 22:22:55 GMT",
+      "etag": "\"bef-5f62e9ec18e59\"",
+      "accept-ranges": "bytes",
+      "cache-control": "max-age=14400",
+      "cf-cache-status": "MISS",
+      "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+      "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=7fkwEpfMKbjDvfkuj5GO%2BwKdZ6Pmopw7m5uSkSdcmY8nzY%2BxoSNA8dAr3Rymjy2BGcVcrxmqkK8YubYpBtMdexBHDSM8Teodxb%2BEQt7ZoqorqH19\"}]}",
+      "cf-ray": "9dc425a9cc62273b-ZRH",
+      "alt-svc": "h3=\":443\"; ma=86400"
+    },
+    "status": 200,
+    "uri": "https://ddos.odenwilusenz.ch/images/thumb/0/0d/Odenwilusenz_Paletten.jpg/120px-Odenwilusenz_Paletten.jpg?20230305222248=",
+    "timestamp": "2026-03-14T15:00:17.548Z"
+  },
+  "hasData": true
+}

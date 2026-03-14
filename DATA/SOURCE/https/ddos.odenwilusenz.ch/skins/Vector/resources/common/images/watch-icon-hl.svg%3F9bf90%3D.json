@@ -1,0 +1,25 @@
+{
+  "metadata": {
+    "headers": {
+      "date": "Sat, 14 Mar 2026 15:00:15 GMT",
+      "content-type": "image/svg+xml",
+      "content-length": "223",
+      "connection": "keep-alive",
+      "server": "cloudflare",
+      "last-modified": "Fri, 03 Mar 2023 22:01:17 GMT",
+      "etag": "\"108-5f60615ac80b9-gzip\"",
+      "accept-ranges": "bytes",
+      "vary": "Accept-Encoding",
+      "cache-control": "max-age=14400",
+      "cf-cache-status": "MISS",
+      "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+      "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=Ha6CpFc8MTHu7NWy2LcfFk7OiraUWBZmuzdY%2BwZHiVbRIpdvDAdmFvzxUp671O7uU0nhm7o68%2FApdMvAYy8TKZpjQskaDq0GBspWHC0PKJ00Yg%3D%3D\"}]}",
+      "cf-ray": "9dc4259f3d24bb0c-ZRH",
+      "alt-svc": "h3=\":443\"; ma=86400"
+    },
+    "status": 200,
+    "uri": "https://ddos.odenwilusenz.ch/skins/Vector/resources/common/images/watch-icon-hl.svg?9bf90=",
+    "timestamp": "2026-03-14T15:00:15.862Z"
+  },
+  "hasData": true
+}

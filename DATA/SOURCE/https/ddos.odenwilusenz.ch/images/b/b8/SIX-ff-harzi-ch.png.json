@@ -1,0 +1,24 @@
+{
+  "metadata": {
+    "headers": {
+      "date": "Sat, 14 Mar 2026 15:00:17 GMT",
+      "content-type": "image/png",
+      "content-length": "499788",
+      "connection": "keep-alive",
+      "server": "cloudflare",
+      "last-modified": "Sun, 17 Aug 2025 11:58:26 GMT",
+      "etag": "\"7a04c-63c8e5738818d\"",
+      "accept-ranges": "bytes",
+      "cache-control": "max-age=14400",
+      "cf-cache-status": "MISS",
+      "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+      "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=yvNATLEEoq%2FT6k5%2BrZnMD6DT8qmzVnIgCNkfgvSzU2D3pJUUiWqzupOVXiBJ5ecng3B07zrDQdP558fD6iVft26CVEmFVFuDvGCqZ%2BTY6LufTQ%3D%3D\"}]}",
+      "cf-ray": "9dc425aadfbebb0c-ZRH",
+      "alt-svc": "h3=\":443\"; ma=86400"
+    },
+    "status": 200,
+    "uri": "https://ddos.odenwilusenz.ch/images/b/b8/SIX-ff-harzi-ch.png",
+    "timestamp": "2026-03-14T15:00:17.752Z"
+  },
+  "hasData": true
+}

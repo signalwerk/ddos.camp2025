@@ -1,0 +1,25 @@
+{
+  "metadata": {
+    "headers": {
+      "date": "Sat, 14 Mar 2026 15:00:15 GMT",
+      "content-type": "image/svg+xml",
+      "content-length": "405",
+      "connection": "keep-alive",
+      "server": "cloudflare",
+      "last-modified": "Fri, 03 Mar 2023 22:01:17 GMT",
+      "etag": "\"2d5-5f60615ac6564-gzip\"",
+      "accept-ranges": "bytes",
+      "vary": "Accept-Encoding",
+      "cache-control": "max-age=14400",
+      "cf-cache-status": "MISS",
+      "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+      "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=erB8VotH%2BKdU3h96XXoozNEv7CJI5RlL9u6lX9Lphqn0unVZg%2BGM9%2FQ72Ik7tklhzqW3VyXzAUzD%2Bg%2Boc6Q%2BTZGDOPV5NWS0o5V7Z4vd6jjSGq%2Fa\"}]}",
+      "cf-ray": "9dc4259f0880343e-ZRH",
+      "alt-svc": "h3=\":443\"; ma=86400"
+    },
+    "status": 200,
+    "uri": "https://ddos.odenwilusenz.ch/skins/Vector/resources/common/images/unwatch-temp-icon.svg?195f5=",
+    "timestamp": "2026-03-14T15:00:15.834Z"
+  },
+  "hasData": true
+}

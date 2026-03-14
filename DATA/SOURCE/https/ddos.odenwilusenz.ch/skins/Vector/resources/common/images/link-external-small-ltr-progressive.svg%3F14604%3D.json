@@ -1,0 +1,25 @@
+{
+  "metadata": {
+    "headers": {
+      "date": "Sat, 14 Mar 2026 15:00:15 GMT",
+      "content-type": "image/svg+xml",
+      "content-length": "257",
+      "connection": "keep-alive",
+      "server": "cloudflare",
+      "last-modified": "Fri, 03 Mar 2023 22:01:17 GMT",
+      "etag": "\"150-5f60615abf035-gzip\"",
+      "accept-ranges": "bytes",
+      "vary": "Accept-Encoding",
+      "cache-control": "max-age=14400",
+      "cf-cache-status": "MISS",
+      "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+      "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=q%2BLd933rNr3T%2BOVZkdiG3%2Bp6%2FA6bxP00kKEz2OsjtvxVeYGyVcbRvu5g3FVt12qtQg4WoT2sB%2B3gLop1MlP8NQxmZm5%2BfMdFhUYyfOW%2BvtyMMQ%3D%3D\"}]}",
+      "cf-ray": "9dc4259e9c91bb0c-ZRH",
+      "alt-svc": "h3=\":443\"; ma=86400"
+    },
+    "status": 200,
+    "uri": "https://ddos.odenwilusenz.ch/skins/Vector/resources/common/images/link-external-small-ltr-progressive.svg?14604=",
+    "timestamp": "2026-03-14T15:00:15.801Z"
+  },
+  "hasData": true
+}

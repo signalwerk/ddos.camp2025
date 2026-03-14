@@ -1,0 +1,28 @@
+{
+  "metadata": {
+    "headers": {
+      "date": "Sat, 14 Mar 2026 15:00:16 GMT",
+      "content-type": "text/html; charset=UTF-8",
+      "transfer-encoding": "chunked",
+      "connection": "keep-alive",
+      "server": "cloudflare",
+      "x-content-type-options": "nosniff",
+      "content-language": "de",
+      "vary": "Accept-Encoding,Cookie",
+      "expires": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "cache-control": "private, must-revalidate, max-age=0",
+      "x-request-id": "abV4AEB5H1SMM_giNVONFAAAAVI",
+      "set-cookie": "cpPosIndex=1%401773500416%23c57e5fc235157d7ac2347986d68be52d; expires=Sat, 14 Mar 2026 15:00:26 GMT; Max-Age=10; path=/; secure; HttpOnly",
+      "last-modified": "Fri, 22 Aug 2025 20:13:43 GMT",
+      "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=sJGMZ1qCYmwcnoqEDY77WkSMJl%2FMlrxoFeLvjJ1U%2BUJZ34tKt5oPjKu8UGclweZEBsvrWGMYo1WhGVWjr%2B3PgFW%2Fw1NDBDzRx1YNI%2BJp3WE6lw%3D%3D\"}]}",
+      "cf-cache-status": "BYPASS",
+      "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+      "cf-ray": "9dc425a278e8bb0c-ZRH",
+      "alt-svc": "h3=\":443\"; ma=86400"
+    },
+    "status": 200,
+    "uri": "https://ddos.odenwilusenz.ch/Datei:SIX-ff-harzi-ch.png",
+    "timestamp": "2026-03-14T15:00:16.618Z"
+  },
+  "hasData": true
+}

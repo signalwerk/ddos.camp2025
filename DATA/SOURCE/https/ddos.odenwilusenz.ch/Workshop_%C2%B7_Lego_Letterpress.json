@@ -1,0 +1,28 @@
+{
+  "metadata": {
+    "headers": {
+      "date": "Sat, 14 Mar 2026 15:00:16 GMT",
+      "content-type": "text/html; charset=UTF-8",
+      "transfer-encoding": "chunked",
+      "connection": "keep-alive",
+      "server": "cloudflare",
+      "x-content-type-options": "nosniff",
+      "content-language": "de",
+      "vary": "Accept-Encoding,Cookie",
+      "expires": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "cache-control": "private, must-revalidate, max-age=0",
+      "x-request-id": "abV3_0B5H1SMM_giNVONDwAAAVI",
+      "set-cookie": "cpPosIndex=2%401773500415%232b236c3c25d2fa75fe427c68971723fd; expires=Sat, 14 Mar 2026 15:00:25 GMT; Max-Age=10; path=/; secure; HttpOnly",
+      "last-modified": "Sun, 01 Feb 2026 23:20:37 GMT",
+      "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=aHb3wh7jgmlsiw04NRL%2Bs5o5HNNKLRpMsG1i9F7Rmk5mEU5BdaAFk0TC0s8ClPbk3ikb65P5GJkW7M6nCkoRR5hy1XCDCz2HF8FFFzm5xCTcpDc3\"}]}",
+      "cf-cache-status": "DYNAMIC",
+      "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+      "cf-ray": "9dc4259f5ddb273b-ZRH",
+      "alt-svc": "h3=\":443\"; ma=86400"
+    },
+    "status": 200,
+    "uri": "https://ddos.odenwilusenz.ch/Workshop_%C2%B7_Lego_Letterpress",
+    "timestamp": "2026-03-14T15:00:16.039Z"
+  },
+  "hasData": true
+}

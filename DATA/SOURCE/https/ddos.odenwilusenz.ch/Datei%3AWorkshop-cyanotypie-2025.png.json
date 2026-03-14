@@ -1,0 +1,28 @@
+{
+  "metadata": {
+    "headers": {
+      "date": "Sat, 14 Mar 2026 15:00:16 GMT",
+      "content-type": "text/html; charset=UTF-8",
+      "transfer-encoding": "chunked",
+      "connection": "keep-alive",
+      "server": "cloudflare",
+      "x-content-type-options": "nosniff",
+      "content-language": "de",
+      "vary": "Accept-Encoding,Cookie",
+      "expires": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "cache-control": "private, must-revalidate, max-age=0",
+      "x-request-id": "abV4AJwSUOlavZFj4otcyAAAAAg",
+      "set-cookie": "cpPosIndex=2%401773500416%23e74fe4d7e08b4ddfbadbca4fc7f1ecfa; expires=Sat, 14 Mar 2026 15:00:26 GMT; Max-Age=10; path=/; secure; HttpOnly",
+      "last-modified": "Fri, 22 Aug 2025 20:13:43 GMT",
+      "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=4O8YCoHKVFNpNLZWsxsUfi1dHYvuoPkglpdfsUWh408YVUNNMTDgqMUg9hkb0qzk7LgKykCJ59zS%2By%2BPSQ51rmacq%2FmJB9r66jbqDdQKbm8B6yJy\"}]}",
+      "cf-cache-status": "BYPASS",
+      "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+      "cf-ray": "9dc425a33f71343e-ZRH",
+      "alt-svc": "h3=\":443\"; ma=86400"
+    },
+    "status": 200,
+    "uri": "https://ddos.odenwilusenz.ch/Datei:Workshop-cyanotypie-2025.png",
+    "timestamp": "2026-03-14T15:00:16.710Z"
+  },
+  "hasData": true
+}

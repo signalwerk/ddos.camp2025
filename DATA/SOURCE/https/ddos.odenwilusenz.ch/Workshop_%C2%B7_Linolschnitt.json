@@ -1,0 +1,28 @@
+{
+  "metadata": {
+    "headers": {
+      "date": "Sat, 14 Mar 2026 15:00:16 GMT",
+      "content-type": "text/html; charset=UTF-8",
+      "transfer-encoding": "chunked",
+      "connection": "keep-alive",
+      "server": "cloudflare",
+      "x-content-type-options": "nosniff",
+      "content-language": "de",
+      "vary": "Accept-Encoding,Cookie",
+      "expires": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "cache-control": "private, must-revalidate, max-age=0",
+      "x-request-id": "abV4AJwSUOlavZFj4otcvwAAAAg",
+      "set-cookie": "cpPosIndex=2%401773500416%23795987e7846b026567c0f54b0c3bf82f; expires=Sat, 14 Mar 2026 15:00:26 GMT; Max-Age=10; path=/; secure; HttpOnly",
+      "last-modified": "Fri, 22 Aug 2025 20:13:43 GMT",
+      "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=9KX4bN4GJk2txLUG%2BZ7DvbeA%2BFcv7rFHsMRrT%2B48JVlkS%2BONk2cYuHE5h0U6x7gCeL1cYd2dGQXKu0RfVgeg10FwfKzfe7chcMJibC6msgtCug%3D%3D\"}]}",
+      "cf-cache-status": "DYNAMIC",
+      "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+      "cf-ray": "9dc425a0bec4bb0c-ZRH",
+      "alt-svc": "h3=\":443\"; ma=86400"
+    },
+    "status": 200,
+    "uri": "https://ddos.odenwilusenz.ch/Workshop_%C2%B7_Linolschnitt",
+    "timestamp": "2026-03-14T15:00:16.304Z"
+  },
+  "hasData": true
+}

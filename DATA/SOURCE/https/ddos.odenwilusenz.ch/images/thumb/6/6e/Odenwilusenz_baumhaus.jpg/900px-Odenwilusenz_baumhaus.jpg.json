@@ -1,0 +1,24 @@
+{
+  "metadata": {
+    "headers": {
+      "date": "Sat, 14 Mar 2026 15:00:15 GMT",
+      "content-type": "image/jpeg",
+      "content-length": "158055",
+      "connection": "keep-alive",
+      "server": "cloudflare",
+      "last-modified": "Mon, 06 Mar 2023 05:46:28 GMT",
+      "etag": "\"26967-5f634d0fed093\"",
+      "accept-ranges": "bytes",
+      "cache-control": "max-age=14400",
+      "cf-cache-status": "MISS",
+      "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+      "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=XWAQRbLTTN9zhhXHvTksimJLk%2BAoacq5dh%2B0Aj9VE7OgedzqCnDizZYCcMKCDHHZrSRL74vcl8oIAVomksiVE8nWOGc18yTkMtp7pPA1jfhJnVVe\"}]}",
+      "cf-ray": "9dc4259c7bc3343e-ZRH",
+      "alt-svc": "h3=\":443\"; ma=86400"
+    },
+    "status": 200,
+    "uri": "https://ddos.odenwilusenz.ch/images/thumb/6/6e/Odenwilusenz_baumhaus.jpg/900px-Odenwilusenz_baumhaus.jpg",
+    "timestamp": "2026-03-14T15:00:15.433Z"
+  },
+  "hasData": true
+}

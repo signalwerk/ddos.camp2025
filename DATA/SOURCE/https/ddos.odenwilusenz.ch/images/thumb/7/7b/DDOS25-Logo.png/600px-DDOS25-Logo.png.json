@@ -1,0 +1,24 @@
+{
+  "metadata": {
+    "headers": {
+      "date": "Sat, 14 Mar 2026 15:00:13 GMT",
+      "content-type": "image/png",
+      "content-length": "127106",
+      "connection": "keep-alive",
+      "server": "cloudflare",
+      "last-modified": "Mon, 05 May 2025 16:23:21 GMT",
+      "etag": "\"1f082-63465eb2329b3\"",
+      "accept-ranges": "bytes",
+      "cache-control": "max-age=14400",
+      "cf-cache-status": "REVALIDATED",
+      "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+      "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=tzY0csj76vO%2FJknCt3iwTY79QGIGgbQQb%2FVw5%2FsS2Zc696ZjOSEX9jFXIijf%2B%2F0rPARzL8N%2F6vEFi%2BmlVb6pK2xQYwkVF7cLFWRq%2BZ83BESpPg%3D%3D\"}]}",
+      "cf-ray": "9dc4258efe02bb0c-ZRH",
+      "alt-svc": "h3=\":443\"; ma=86400"
+    },
+    "status": 200,
+    "uri": "https://ddos.odenwilusenz.ch/images/thumb/7/7b/DDOS25-Logo.png/600px-DDOS25-Logo.png",
+    "timestamp": "2026-03-14T15:00:13.294Z"
+  },
+  "hasData": true
+}

@@ -1,0 +1,24 @@
+{
+  "metadata": {
+    "headers": {
+      "date": "Sat, 14 Mar 2026 15:00:15 GMT",
+      "content-type": "image/jpeg",
+      "content-length": "33450",
+      "connection": "keep-alive",
+      "server": "cloudflare",
+      "last-modified": "Fri, 31 Mar 2023 01:20:43 GMT",
+      "etag": "\"82aa-5f82804a124b1\"",
+      "accept-ranges": "bytes",
+      "cache-control": "max-age=14400",
+      "cf-cache-status": "MISS",
+      "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+      "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=TNMOHBL7zl1qKRu6d6EeKpr6NbiH6Cll5mp4Jt7vWAYi2J0rE%2FOJ9jwP4pQwpP53HJ0fUz3P6WuvuofeOb5dwfSkW%2FI8IvMILfZPd6btp7zNh6rL\"}]}",
+      "cf-ray": "9dc4259e3b4f273b-ZRH",
+      "alt-svc": "h3=\":443\"; ma=86400"
+    },
+    "status": 200,
+    "uri": "https://ddos.odenwilusenz.ch/images/thumb/f/fe/Ddos_nacht.jpg/800px-Ddos_nacht.jpg?20230314182929=",
+    "timestamp": "2026-03-14T15:00:15.700Z"
+  },
+  "hasData": true
+}

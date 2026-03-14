@@ -1,0 +1,24 @@
+{
+  "metadata": {
+    "headers": {
+      "date": "Sat, 14 Mar 2026 15:00:16 GMT",
+      "content-type": "image/jpeg",
+      "content-length": "67442",
+      "connection": "keep-alive",
+      "server": "cloudflare",
+      "last-modified": "Sun, 05 Mar 2023 21:35:05 GMT",
+      "etag": "\"10772-5f62df3a9e3c8\"",
+      "accept-ranges": "bytes",
+      "cache-control": "max-age=14400",
+      "cf-cache-status": "REVALIDATED",
+      "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+      "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=MDvq52nUwiheAnpNIFitVYyTekA21aEUrlQE9G%2FNgQYwPiZP7TfioJDaCMRBhNLx0RkhEWPyMTIYchpNgTyMbuWp8nalZMT06SrTBh8bi2zGld5P\"}]}",
+      "cf-ray": "9dc425a5bb11343e-ZRH",
+      "alt-svc": "h3=\":443\"; ma=86400"
+    },
+    "status": 200,
+    "uri": "https://ddos.odenwilusenz.ch/images/thumb/b/b4/Odenwilusenz_gelaende_hackerspace.jpg/800px-Odenwilusenz_gelaende_hackerspace.jpg",
+    "timestamp": "2026-03-14T15:00:16.904Z"
+  },
+  "hasData": true
+}

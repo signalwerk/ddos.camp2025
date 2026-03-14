@@ -1,0 +1,24 @@
+{
+  "metadata": {
+    "headers": {
+      "date": "Sat, 14 Mar 2026 15:00:17 GMT",
+      "content-type": "image/jpeg",
+      "content-length": "1675314",
+      "connection": "keep-alive",
+      "server": "cloudflare",
+      "last-modified": "Sun, 05 Mar 2023 22:20:52 GMT",
+      "etag": "\"199032-5f62e976811c0\"",
+      "accept-ranges": "bytes",
+      "cache-control": "max-age=14400",
+      "cf-cache-status": "MISS",
+      "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+      "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=IXBd0OejJgderL9kp0QxgCVL0yEmTbSweQgHzN9U90XzNkCA7PCb9x1JD674MgRuA7Gk4KhHCIp0bBp9ybfzcphBN332pNJZBZ%2BOIaqqG%2BUw0%2FD5\"}]}",
+      "cf-ray": "9dc425a85958273b-ZRH",
+      "alt-svc": "h3=\":443\"; ma=86400"
+    },
+    "status": 200,
+    "uri": "https://ddos.odenwilusenz.ch/images/d/da/Odenwilusenz_Bar.jpg",
+    "timestamp": "2026-03-14T15:00:17.417Z"
+  },
+  "hasData": true
+}
